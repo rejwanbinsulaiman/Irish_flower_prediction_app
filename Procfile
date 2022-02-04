@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run irish_flower_prediction_web-app.py
